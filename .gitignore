@@ -1,0 +1,13 @@
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+*.dsn
+*.rpt
+*.000
+*~
+_autosave-*
+*.tmp
+*.net
+*.xml
+*.csv
