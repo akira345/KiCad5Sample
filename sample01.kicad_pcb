@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 7)
     (tracks 73)
     (zones 0)
     (modules 6)
@@ -371,10 +371,6 @@
   (gr_line (start 67.31 57.15) (end 67.31 34.29) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 97.79 57.15) (end 67.31 57.15) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 97.79 34.29) (end 97.79 57.15) (layer Edge.Cuts) (width 0.15))
-  (target plus (at 93.98 50.8) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5B574380))
-  (target plus (at 93.98 50.8) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5B574378))
-  (target plus (at 71.12 38.1) (size 5) (width 0.15) (layer Edge.Cuts) (tstamp 5B574377))
-  (target plus (at 71.12 38.1) (size 5) (width 0.15) (layer Edge.Cuts))
   (dimension 30.48 (width 0.3) (layer F.SilkS)
     (gr_text "30.480 mm" (at 82.55 63.06) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
